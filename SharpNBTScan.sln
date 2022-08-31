@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpNBTScan", "SharpNBTScan\SharpNBTScan.csproj", "{A129DAFB-020A-4F0C-8D79-7B3C47E437A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A129DAFB-020A-4F0C-8D79-7B3C47E437A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A129DAFB-020A-4F0C-8D79-7B3C47E437A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A129DAFB-020A-4F0C-8D79-7B3C47E437A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A129DAFB-020A-4F0C-8D79-7B3C47E437A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79728E1F-311D-4CE1-88BE-9A1BC3B1C81D}
+	EndGlobalSection
+EndGlobal
