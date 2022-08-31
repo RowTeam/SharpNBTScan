@@ -1,2 +1,3 @@
 # SharpNBTScan
  
+SharpNBTScan.exe TargetIP
